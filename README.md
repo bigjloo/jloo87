@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm [Jay!](www.github.com/jloo87) Full-time IT student. Part-time developer
+### I'm [Jay!](https://www.github.com/jloo87) Full-time IT student. Part-time developer
 
 #### Current Projects
 - Personal Website
