@@ -14,7 +14,7 @@
 > Algorithmic Thinking by Daniel Zingaro
 <br>
 
-[![JLoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jloo87&show_icons=true&theme=dark)](https://github.com/jloo/github-readme-stats)
+[![JLoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jloo87&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/jloo/github-readme-stats)
 
 <!--
 **jloo87/jloo87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
