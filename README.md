@@ -15,6 +15,11 @@ Data structures and Algorithms
 - C#
 - GraphQL
 
+👯 I’m looking to collaborate on:
+- AgriTech ideas
+- Travel tech
+- Gambling tech innovation
+
 💬 Ask me about my poker career 😄
 
 📫 How to reach me: junzhongloo@gmail.com
