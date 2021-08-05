@@ -1,17 +1,23 @@
 ### Hi there 👋
 ### I'm [Jay!](https://www.github.com/jloo87) Full-time IT student. Part-time developer
 
-#### Current Projects
-- Personal Website
+#### 🔭 I’m currently working on
+NZ Microsoft Student Accelerator Phase 2 Project
 
-#### Tech
-- Python
-- Django
-- Javascript
-- HTML/CSS
+#### 🌱 I’m currently learning
+Data structures and Algorithms
 
-#### Currently Reading
-> Algorithmic Thinking by Daniel Zingaro
+### Tech
+- HTML/CSS/JS
+- React/Redux
+- Storybook JS
+- Python/Django
+- C#
+- GraphQL
+
+💬 Ask me about my poker career 😄
+
+📫 How to reach me: junzhongloo@gmail.com
 <br>
 
 [![JLoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jloo87&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/jloo/github-readme-stats)
