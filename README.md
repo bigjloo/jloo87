@@ -18,7 +18,7 @@ Data structures and Algorithms
 👯 I’m looking to collaborate on:
 - AgriTech ideas
 - Travel tech
-- Gambling tech innovation
+
 
 💬 Ask me about my poker career 😄
 
