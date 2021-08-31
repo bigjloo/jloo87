@@ -20,7 +20,7 @@ Data structures and Algorithms
 - Travel tech
 
 
-💬 Ask me about my poker career 😄
+💬 Former professional poker player turn techie
 
 📫 How to reach me: junzhongloo@gmail.com
 <br>
