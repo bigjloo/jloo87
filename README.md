@@ -2,10 +2,11 @@
 ### I'm [Jay!](https://www.github.com/jloo87) Full-time IT student. Part-time developer
 
 #### 🔭 I’m currently working on
-NZ Microsoft Student Accelerator Phase 2 Project
+Professional presence + blog
 
 #### 🌱 I’m currently learning
 Data structures and Algorithms
+Security+ 
 
 ### Tech
 - HTML/CSS/JS
@@ -15,12 +16,7 @@ Data structures and Algorithms
 - C#
 - GraphQL
 
-👯 I’m looking to collaborate on:
-- AgriTech ideas
-- Travel tech
-
-
-💬 Former professional poker player turn techie
+💬 Ask me about collaboration
 
 📫 How to reach me: junzhongloo@gmail.com
 <br>
